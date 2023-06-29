@@ -1,8 +1,3 @@
-# YonetimPanelli_WebSitesi
-
-
-
-
 
 #YÖNETİM PANELİ LOGIN EKRANI
 <img width="319" alt="indexphp" src="https://github.com/yekham/YonetimPanelli_WebSitesi/assets/114955332/9b45cbb6-bcc2-4ca1-aa30-780539b07e83">
