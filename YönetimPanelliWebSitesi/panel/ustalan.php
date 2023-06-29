@@ -1,0 +1,3 @@
+<div style="text-align:center; border-bottom:1px solid #ccc; padding-bottom:15px; margin-bottom:30px;">
+    <a href="anasayfa.php">Ana Sayfa</a> | <a href="portfolyo.php">Portfolyo</a> | <a href="hakkimizda.php">Hakkımızda</a> | <a href="hizmetlerimiz.php">Hizmetlerimiz</a> | <a href="iletisim.php">İletişim</a> | <a href="cikis.php"  onclick="if (!confirm('Çıkmak istediğinize emin misiniz?')) return false">Çıkış</a>
+</div>
